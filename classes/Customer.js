@@ -11,5 +11,5 @@ class Customer {
 }
 
 module.exports = {
-    Customer    
+    Customer,    
   };

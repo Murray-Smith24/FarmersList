@@ -15,5 +15,5 @@ class Cart {
 }
 
 module.exports = {
-    Cart
+    Cart,
 };

@@ -15,5 +15,5 @@ class Auth {
 }
 
 module.exports = {
-    Auth
+    Auth,
 };
