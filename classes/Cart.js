@@ -1,4 +1,4 @@
-class Cart {
+export class Cart {
     constructor() {
         this.total = 0;
         this.products = [];

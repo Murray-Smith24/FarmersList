@@ -1,4 +1,4 @@
-class Customer {
+export class Customer {
     constructor(name, email, shippingAddress) {
         this.orderHistory = [];
         this.name = name;

@@ -1,11 +1,14 @@
 // Import Classes Here
 
-import Product from './classes/Product';
-import Cart from './classes/Cart';
-import Customer from './classes/Customer';
-import Auth from './classes/Auth';
+const Product = require('./classes/Product');
+const Auth = require('./classes/Auth');
+const Cart = require('./classes/Cart');
+const Customer = require('./classes/Customer');
 
-
+// import Product from './classes/Product'
+// import Auth from './classes/Auth'
+// import Cart from './classes/Cart'
+// import Customer from './classes/Customer'
 
 // DO NOT EDIT BELOW THIS LINE
 try {
